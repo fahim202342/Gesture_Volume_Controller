@@ -107,7 +107,6 @@ MediaPipe by Google for hand tracking
 PyCAW for Windows audio control
 OpenCV for computer vision utilities
 📬 Contact
-Number: 01318891604
 GitHub: fahim202342
 Email: mf143416@gmail.com
 ⭐ Star this repo if you found it helpful!
