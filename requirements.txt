@@ -1,0 +1,6 @@
+mediapipe==0.10.14
+numpy==2.4.6
+opencv-python==4.13.0.92
+pillow==12.2.0
+pycaw==20251023
+
